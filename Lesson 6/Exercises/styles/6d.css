@@ -1,6 +1,12 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+
 .model-3 {
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
@@ -8,6 +14,7 @@
 .order-online {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
 }
 
 .touchless-delivery {
