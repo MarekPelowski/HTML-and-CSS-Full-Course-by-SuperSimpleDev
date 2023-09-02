@@ -3,3 +3,17 @@ p {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+
+.email {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.textbox {
+  font-size: 25px;
+  width: 500px;
+  border-radius: 5px;
+  border-style: solid;
+  margin-bottom: 20px;
+}
+
