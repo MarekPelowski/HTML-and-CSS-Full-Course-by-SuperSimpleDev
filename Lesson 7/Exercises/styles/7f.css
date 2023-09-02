@@ -32,4 +32,11 @@ p {
   padding-left: 180px;
   padding-right: 180px;
   border-radius: 30px;
+  cursor: pointer;
+
+  transition: opacity 0.15s;
+}
+
+.agree-and-join:hover {
+  opacity: 0.9;
 }
