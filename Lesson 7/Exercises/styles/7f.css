@@ -17,3 +17,19 @@ p {
   margin-bottom: 20px;
 }
 
+.privacy-policy {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.agree-and-join {
+  font-size: 25px;
+  background-color: rgb(59, 89, 198);
+  border: none;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 180px;
+  padding-right: 180px;
+  border-radius: 30px;
+}
