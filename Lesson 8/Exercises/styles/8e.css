@@ -1,6 +1,6 @@
 .request-a-ride {
   font-family: Arial;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 .location-textbox {
@@ -8,9 +8,47 @@
   margin-bottom: 10px;
   border: none;
   background-color: rgb(237, 237, 237);
-  width: 350px;
+  width: 400px;
   font-size: 15px;
   padding-left: 20px;
   padding-top: 15px;
   padding-bottom: 15px;
+}
+
+.destination-textbox {
+  display: block;
+  margin-bottom: 10px;
+  border: none;
+  background-color: rgb(237, 237, 237);
+  width: 400px;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.request-now {
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 25px;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.schedule-for-later {
+  background-color: rgb(237, 237, 237);
+  border: none;
+  margin-top: 25px;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: 10px;
+  cursor: pointer;
 }
