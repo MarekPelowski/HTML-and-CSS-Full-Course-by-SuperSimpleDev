@@ -3,3 +3,17 @@
   border-style: solid;
   width: 300px;
 }
+
+.opinion {
+  font-family:  Arial;
+  margin-left: 20px;
+}
+
+.yes {
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.no {
+  margin-bottom: 20px;
+}
