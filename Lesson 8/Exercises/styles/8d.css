@@ -1,0 +1,12 @@
+.first-name1 {
+  display: block;
+  margin-bottom: 100px;
+  border-width: 1px;
+  border-style: solid;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 150px;
+  border-radius: 10px;
+}
