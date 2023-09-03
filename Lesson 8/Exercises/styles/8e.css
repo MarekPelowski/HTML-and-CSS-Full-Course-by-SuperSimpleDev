@@ -1,0 +1,16 @@
+.request-a-ride {
+  font-family: Arial;
+  font-size: 35px;
+}
+
+.location-textbox {
+  display: block;
+  margin-bottom: 10px;
+  border: none;
+  background-color: rgb(237, 237, 237);
+  width: 350px;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
