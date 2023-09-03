@@ -1,0 +1,26 @@
+p {
+  color: white;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.container {
+  background-color: black;
+  width: 500px;
+}
+
+.install-youtube-music {
+  font-weight: bold;
+  font-size: 25px;
+  padding-top: 20px;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.add-youtube-music {
+  color: grey;
+  font-size: 20px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
