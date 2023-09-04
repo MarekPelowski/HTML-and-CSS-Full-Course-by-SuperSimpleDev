@@ -4,7 +4,7 @@ p {
   margin-bottom: 0px;
 }
 
-.oliver-cat {
+.profile-picture {
   width: 200px;
   height: 200px;
   object-fit: cover;
@@ -37,11 +37,11 @@ p {
   border-radius: 5px;
   cursor: pointer;
   margin-left: 10px;
-  transition: opactiy 0.15s;
+  transition: opacity 0.15s;
 }
 
 .add-friend:hover {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .container {
