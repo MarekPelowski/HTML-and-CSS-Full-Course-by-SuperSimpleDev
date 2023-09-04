@@ -1,7 +1,6 @@
 .google-image {
   width: 350px;
-  display: block;
-  margin-left: 125px;
+  display: inline-block;
 }
 
 .search-google {
@@ -14,6 +13,10 @@
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
-  display: block;
+  display: inline-block;
   margin-top: 5px;
+}
+
+.menu {
+  text-align: center;
 }
