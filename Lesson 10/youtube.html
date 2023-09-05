@@ -12,9 +12,9 @@
       .search-bar {
         display: block;
       }
-      
+
       .video-title {
-        width: 300px
+        margin-top: 0;
       }
 
       .video-preview {
@@ -23,6 +23,26 @@
         vertical-align: top;
         margin-right: 15px;
       }
+
+      .channel-picture {
+        display: inline-block;
+        width: 50px;
+        vertical-align: top;
+      }
+
+      .video-info {
+        display: inline-block;
+        width: 200px;
+      }
+
+      .profile-picture {
+        width: 40px;
+        border-radius: 40px;
+      }
+
+      .thumbnail-row {
+        margin-bottom: 10px;
+      }
     </style>
   </head>
   <body>
@@ -30,16 +50,15 @@
     
 
     <div class="video-preview">
-      <div>
-        
+      <div class="thumbnail-row">
         <img class="thumbnail" src="thumbnails/thumbnail-1.webp">
-      
+        
       </div>
       <div>
       
         <div class="channel-picture">
 
-          <img src="channel-pictures/channel-1.jpeg">
+          <img class="profile-picture" src="channel-pictures/channel-1.jpeg">
 
         </div>
         <div class="video-info">
