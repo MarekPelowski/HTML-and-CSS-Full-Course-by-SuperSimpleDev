@@ -55,7 +55,6 @@ p {
 
 .profile-box {
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);
-  display: inline-block;
   border-radius: 2px;
   padding-bottom: 10px;
 }
@@ -70,7 +69,12 @@ p {
   vertical-align: middle;
 }
 
-.mutual-friends-row {
+.mutual-friends-grid {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  align-items: center;
+  column-gap: 14px;
+
   margin-top: 10px;
   margin-bottom: 10px;
 }
