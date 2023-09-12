@@ -1,0 +1,19 @@
+p {
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  margin: 0;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(100, 55, 113);
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
