@@ -17,3 +17,31 @@ p {
   padding-right: 15px;
 }
 
+input {
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  border-radius: 100px;
+  flex: 1;
+  max-width: 300px;
+}
+
+.download {
+  background-color: rgb(100, 55, 113);
+  border-style: solid;
+  border-color: white;
+  color: white;
+  border-width: 1px;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  transition: background-color 0.15s;
+}
+
+.download:hover {
+  background-color: rgb(157, 133, 164);
+}
