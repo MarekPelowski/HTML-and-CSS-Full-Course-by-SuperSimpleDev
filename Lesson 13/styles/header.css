@@ -7,8 +7,6 @@
 }
 
 .left-section {
-  background-color: lightblue;
-  width: 150px;
   align-items: center;
   display: flex;
 }
@@ -29,6 +27,23 @@
   margin-left: 70px;
   margin-right: 35px;
   max-width: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar {
+  flex: 1;
+  height: 34px;
+}
+
+.search-button {
+  height: 40px;
+  width: 60px;
+}
+
+.voice-search-button {
+  height: 40px;
+  width: 40px;
 }
 
 .right-section {
