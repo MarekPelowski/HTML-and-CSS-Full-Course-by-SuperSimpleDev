@@ -55,8 +55,8 @@ p {
   padding-bottom: 8px;
   padding-left: 16px;
   padding-right: 16px;
-  font-size: 30px;
-  border-radius: 10px;
+  font-size: 25px;
+  border-radius: 7px;
   cursor: pointer;
   transition: opacity 0.15s;
 }
