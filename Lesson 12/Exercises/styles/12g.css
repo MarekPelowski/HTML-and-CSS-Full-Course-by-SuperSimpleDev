@@ -1,0 +1,16 @@
+.container {
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.profile-picture {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 40px;
+}
