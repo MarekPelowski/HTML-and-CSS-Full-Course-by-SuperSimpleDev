@@ -1,0 +1,31 @@
+div {
+  font-family: Arial;
+  margin: 0;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-top: 25px;
+  column-gap: 15px;
+}
+
+
+.profile-picture {
+  height: 70px;
+  width: 70px;
+  object-fit: cover;
+  border-radius: 35px;
+}
+
+.sender {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.sender-username {
+  color: rgb(70, 70, 70);
+  font-weight: normal;
+}
