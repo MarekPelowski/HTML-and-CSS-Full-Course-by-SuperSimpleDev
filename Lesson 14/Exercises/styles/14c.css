@@ -1,8 +1,21 @@
-.black-background {
+.sidebar {
+  background-color: green;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100px;
+}
+
+.sidebar-text {
+  color: white;
+}
+
+.overlay {
   position: fixed;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
 }
