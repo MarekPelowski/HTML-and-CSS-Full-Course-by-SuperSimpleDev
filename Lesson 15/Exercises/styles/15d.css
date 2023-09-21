@@ -26,3 +26,17 @@ body {
   border: none;
   cursor: pointer;
 }
+
+.timestamp {
+  background-color: black;
+  color: white;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-family: Arial;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 2px;
+}
