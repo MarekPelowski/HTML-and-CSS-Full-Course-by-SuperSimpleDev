@@ -1,0 +1,28 @@
+body {
+  height: 3000px;
+}
+
+.rectangle {
+  background-color: grey;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  width: 320px;
+  height: 180px;
+}
+
+.close-button {
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 200px;
+  border: none;
+  cursor: pointer;
+}
