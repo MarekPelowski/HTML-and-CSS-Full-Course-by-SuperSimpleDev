@@ -1,0 +1,51 @@
+.container {
+  width: 400px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.jacket {
+  width: 100%;
+}
+
+.jacket-container {
+  position: relative;
+}
+
+.discount {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  font-size: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.button-overlay {
+  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-to-cart-button {
+  border-style: solid;
+  border-width: 2px;
+  background-color: white;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+}
