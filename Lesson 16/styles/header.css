@@ -59,6 +59,12 @@
   font-size: 16px;
 }
 
+.search-bar:focus {
+  outline: 0;
+  border: 1px solid blue;
+}
+
+
 .search-button {
   height: 40px;
   width: 66px;
