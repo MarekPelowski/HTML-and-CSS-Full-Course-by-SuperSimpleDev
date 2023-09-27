@@ -98,6 +98,7 @@
   padding-left: 10px;
   align-items: center;
   justify-content: center;
+  z-index: 300;
 
   transition: opacity 0.15s;
 }
