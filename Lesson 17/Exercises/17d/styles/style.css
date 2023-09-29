@@ -7,12 +7,22 @@ body {
 
 .sidebar {
   position: fixed;
-  background-color: rgb(0, 0, 0);
-  width: 399px;
+  background-color: green;
+  width: 259px;
   bottom: 0;
   top: 0;
-  left: 0;
+  left: 140px;
   border-right: 1px solid white;
+}
+
+.header {
+  position: fixed;
+  background-color: rgb(137, 132, 132);
+  width: 599px;
+  height: 200px;
+  right: 359px;
+  left: 400px;
+  border-bottom: 1px solid white;
 }
 
 .videos {
@@ -23,4 +33,14 @@ body {
   top: 0;
   left: 400px;
   border-right: 1px solid white;
+}
+
+.right-sidebar {
+  position: fixed;
+  background-color: green;
+  width: 359px;
+  bottom: 0;
+  top: 0;
+  right: 150px;
+  border-left: 1px solid white;
 }
